@@ -1,0 +1,21 @@
+{
+  "name": "crudapp",
+  "version": "1.0.0",
+  "description": "Crud App",
+  "main": "index.js",
+  "scripts": {
+    "test": "crud"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "Anil",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.33",
+    "nodemon": "^1.17.5"
+  }
+}
